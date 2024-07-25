@@ -1,5 +1,4 @@
 <?php
-// app/Console/Commands/AssignOrders.php
 
 namespace App\Console\Commands;
 
